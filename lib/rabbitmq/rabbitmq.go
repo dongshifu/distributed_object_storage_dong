@@ -2,6 +2,7 @@ package rabbitmq
 
 import (
 	"encoding/json"
+
 	"github.com/streadway/amqp"
 )
 

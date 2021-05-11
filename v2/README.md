@@ -4,13 +4,13 @@
 
 ```bash
 # 运行环境： Ubuntu 16.04
-$ ./env.sh
+$./env.sh
 # 注意事项： 
 # 请提前配置好GO环境，python以及RabbitMQ等
-# 请将项目放置到GOPATH环境下或使用gomode等工具进行项目管理
 # 请根据自己的Linux网卡情况修改ifconfig网卡配置的网卡信息
 
-$ ./put.sh # 测试相关功能
+$ ./putmapping.sh
+$ ./put.sh
 ```
 
 ### 文档说明
