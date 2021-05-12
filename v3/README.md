@@ -15,5 +15,5 @@ $ ./put.sh
 
 ### 文档说明
 
-环境安装及相关代码注释和说明见xxx
+环境安装及相关代码注释和说明见[version 3](https://dongshifu.github.io/2021/03/05/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8-4%E6%95%B0%E6%8D%AE%E6%A0%A1%E9%AA%8C%E5%92%8C%E5%8E%BB%E9%87%8D/)
 

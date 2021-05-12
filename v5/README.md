@@ -15,5 +15,5 @@ $ ./put.sh
 
 ### 文档说明
 
-环境安装及相关代码注释和说明见[分布式对象存储系统实现](https://github.com/dongshifu/distributed_object_storage_dong)
+环境安装及相关代码注释和说明见[version 5](https://dongshifu.github.io/2021/04/10/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8-6%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0/)
 
